@@ -4,7 +4,6 @@ set background=dark
 set mouse=a
 set mousemodel=popup
 set clipboard=unnamed
-set backspace=2
 set splitbelow
 set splitright
 set nobackup
@@ -21,6 +20,7 @@ set foldlevel=99
 set fileformat=unix
 set completeopt=longest,menuone
 set laststatus=2
+set backspace=2
 set tabstop=4 softtabstop=4 shiftwidth=4 textwidth=79 expandtab
 nnoremap <silent> _ :nohl<CR>
 nnoremap <Space> za
