@@ -11,7 +11,7 @@ set noswapfile
 set number
 set autochdir
 set autoindent
-set listchars=tab:>-,eol:¬
+set listchars=tab:>-
 set ignorecase
 set hlsearch
 set incsearch
